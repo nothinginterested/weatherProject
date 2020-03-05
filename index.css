@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #2c2c2c;
+}
+#container{
+    text-align: center;
+    color: #ffffff;
+    font-size: 2em;
+}
+#container .city{
+    color: rebeccapurple;
+}
+#container .country{
+    color: goldenrod;
+}
